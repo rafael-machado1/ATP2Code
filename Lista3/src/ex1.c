@@ -4,9 +4,12 @@ void systemInit();
 
 int main() {
 
+  systemInit();
+
   return 0;
+
 }
 
-void systemInit() {
-
+void systemInit(){
+  printf("Iniciando o sistema");
 }
