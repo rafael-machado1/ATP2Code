@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-void systemInit();
+int varGlobal = 10;
 
-int main() {
+int main() 
+{
+
+  int varGlobal = 20;
+  printf("%d\n",varGlobal);
 
   return 0;
-}
-
-void systemInit() {
-
 }
