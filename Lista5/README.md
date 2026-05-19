@@ -1,5 +1,7 @@
 # Lista 5
 
+Modularização: recursividade, exercícios. Ponteiros: passagem por referência, arrays e strings são ponteiros, exemplos.
+
 [1. Implemente uma função recursiva que calcule o fatorial de um número.](/Lista5/src/ex1.c)
 
 [2. Crie uma função recursiva que calcule a soma de 1 até n.](/Lista5/src/ex2.c)
@@ -19,6 +21,7 @@
 [9. Compare (em código) uma função iterativa e uma recursiva para o mesmo problema (ex: soma ou fatorial).](/Lista5/src/ex9.c)
 
 [10. Crie um algoritmo que:](/Lista5/src/ex10.c)
+
 - Receba um vetor;
 - Utilize ponteiros para modificar seus valores;
 - Exiba o vetor antes e depois.
