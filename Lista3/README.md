@@ -1,5 +1,7 @@
 # Lista 3
 
+Modularização: funções e procedimentos, visão geral sobre parâmetros de entrada de dados e retorno de dados
+
 [1. Crie um procedimento que exiba a mensagem: “Iniciando o sistema”.](/Lista3/src/ex1.c)
 
 [2. Desenvolva uma função que receba um número inteiro e retorne seu dobro.](/Lista3/src/ex2.c)
@@ -17,11 +19,13 @@
 [8. Crie um algoritmo que utilize uma função para calcular o quadrado de um número e exiba o resultado.](/Lista3/src/ex8.c)
 
 [9. Desenvolva um programa modular que](/Lista3/src/ex9.c)
+
 - Leia dois números
 - Use uma função para calcular a soma;
 - Use um procedimento para exibir o resultado.
 
 [10. Crie um conjunto de funções para:](/Lista3/src/ex10.c)
+
 - Calcular soma
 - Calcular média
 -​ Calcular maior valor​
