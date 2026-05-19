@@ -1,5 +1,7 @@
 # Lista 6
 
+Estruturas de Dados: Variáveis Compostas Homogêneas Unidimensionais (Vetores), exemplos e exercícios.
+
 [1. Crie um algoritmo que leia 10 números inteiros e os armazene em um vetor. Em seguida, exiba todos os valores na ordem em que foram digitados.](/Lista6/src/ex1.c)
 
 [2. Altere o programa anterior para que, após a exibição dos valores na ordem em que foram digitados, apresente a média aritmética dentre todos os valores lidos, o maior e o menor dos valores lidos. Utilize funções para isso.](/Lista6/src/ex2.c)
@@ -25,4 +27,3 @@
 [12. Crie um programa que leia uma string qualquer e apresente o seu tamanho (quantidade de caracteres, incluindo espaço em branco, desconsiderando ‘\0’). Não utilize biblioteca string.](/Lista6/src/ex12.c)
 
 [13. Crie um programa que leia uma frase e uma palavra a ser buscada nela. Procure e informe se a palavra foi encontrada na frase ou não. Não utilize a biblioteca string.](/Lista6/src/ex13.c)
-
