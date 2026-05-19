@@ -8,6 +8,6 @@ Estruturas de Dados: Variáveis Compostas Homogêneas Multidimensionais (Matrize
 
 [3. Crie um algoritmo que divida duas matrizes quadradas e apresente a matriz resultante](/Lista7/src/ex3.c)
 
-[4. Crie um algoritmo que multiplique duas matrizes quadradas e apresente a matriz resultante](/Lista7/src/ex3.c)
+[4. Crie um algoritmo que multiplique duas matrizes quadradas e apresente a matriz resultante](/Lista7/src/ex4.c)
 
 <!-- O professor não disponibilizou esses exercícios, então eu mesmo criei -->
