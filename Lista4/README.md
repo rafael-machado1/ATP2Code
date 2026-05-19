@@ -1,5 +1,7 @@
 # Lista 4
 
+Modularização: escopo de variáveis na prática, Passagem Por Valor e Passagem Por Referência.
+
 [1. Crie um algoritmo com uma variável global e uma local com o mesmo nome. Mostre os valores dentro e fora da função.](/Lista4/src/ex1.c)
 
 [2. Desenvolva um procedimento que receba um número por valor e tente alterá-lo. Exiba o valor antes e depois.](/Lista4/src/ex2.c)
