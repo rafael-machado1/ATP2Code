@@ -5,6 +5,8 @@ float media (float n1, float n2)
     return (n1 + n2) / 2;
 }  
 
+#define QTD 3
+
 int main()
 {
 
@@ -17,9 +19,9 @@ int main()
         float nota2;
     } aluno;
 
-    aluno turma[3];
+    aluno turma[QTD];
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < QTD; i++)
     {
         scanf("%f %f", &turma[i].nota1, &turma[i].nota2);
         turma[i].matricula = i + 1;
